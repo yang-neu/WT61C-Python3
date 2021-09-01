@@ -1,12 +1,10 @@
-# WT61C Python3
+# WT61C Python3 sample code
 
-WT61C python3 sample code
-
-# Hardware
+## Hardware
 
 * WitMotion WT61C RS232
 
-# Requirements
+## Requirements
 
 * Python 3.8.x
 * math
@@ -14,7 +12,7 @@ WT61C python3 sample code
 * pySerial
 * struct
 
-# Reference
+## Reference
 
  https://www.cnblogs.com/Ezekiel/p/9913119.html
 

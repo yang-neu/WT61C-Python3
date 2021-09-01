@@ -5,7 +5,6 @@ import math
 import re
 import serial
 import struct
-import time
 
 #Variable
 AngInit = b"\xff\xaa\x52"

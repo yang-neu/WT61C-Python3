@@ -6,6 +6,7 @@
 
 ## Requirements
 
+For running code :
 * Python 3.8.x
 * math
 * re

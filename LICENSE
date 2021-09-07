@@ -20,6 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+The major design pattern of this plugin was abstracted from Ezekiel's Ezekiel/imu, which is subject to the same license.
 Original : https://gitee.com/xjEzekiel/imu
 
 Copyright (c) 2018 Ezekiel
